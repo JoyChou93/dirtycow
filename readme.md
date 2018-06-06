@@ -8,5 +8,4 @@ dirty在centos6 7测试通过。下载地址：
 wget https://raw.githubusercontent.com/JoyChou93/dirtycow/master/dirty
 ```
 
-dirty的root用户名改为了joychou
 
